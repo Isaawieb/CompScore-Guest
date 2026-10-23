@@ -1,0 +1,6 @@
+.gdignore
+.DS_Store
+Thumbs.db
+*.apk
+*.keystore
+.env*
